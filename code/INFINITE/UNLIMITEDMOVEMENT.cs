@@ -12,20 +12,6 @@ public class UNLIMITEDMOVEMENT : MonoBehaviour {
     public float sidewaysForce = 120f;
     public float jumpForce = 0f;
 
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
     public void FixedUpdate()
     {
 
